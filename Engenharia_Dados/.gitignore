@@ -1,0 +1,18 @@
+# Obsidian — configurações locais (não commitar)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Manter as configurações de aparência e plugins
+# (descomente se não quiser commitar nada do .obsidian)
+# .obsidian/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.bak
+*~

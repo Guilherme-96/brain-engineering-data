@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "5fef187094126bba",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c8d27139c3b899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a6d5429dac45151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia_Dados/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdbf039182aa43ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b16fadbf51d9296a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2378b6abc6e5502",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "dc0e1d13fea6503b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "97898a713db8f0ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a02f2cd10a7f156",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ef207ade15eb500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9164b47e93777d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "68d930b57cfb8158",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "41349200b8b60508",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "198fbd2e9a4841b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6a6d5429dac45151",
+  "lastOpenFiles": [
+    "Engenharia_Dados/00_INDEX.md",
+    "Engenharia_Dados/Windows.md",
+    "Engenharia_Dados/VSCode.md",
+    "Engenharia_Dados/venv.md",
+    "Engenharia_Dados/Terraform.md",
+    "Engenharia_Dados/Tableau.md",
+    "Engenharia_Dados/Streamlit.md",
+    "Engenharia_Dados/SQLServer.md",
+    "Engenharia_Dados/SQLAlchemy.md",
+    "Engenharia_Dados/Spark_PySpark.md",
+    "Engenharia_Dados/Selenium.md",
+    "Engenharia_Dados/REST_API.md",
+    "Engenharia_Dados/Requests.md",
+    "Engenharia_Dados/README.md",
+    "Engenharia_Dados/Python.md",
+    "Engenharia_Dados/pyenv.md",
+    "Engenharia_Dados/PowerBI.md",
+    "Engenharia_Dados/PostgreSQL.md",
+    "Engenharia_Dados/Poetry.md",
+    "Engenharia_Dados/Playwright.md",
+    "Engenharia_Dados/Pathlib.md",
+    "Engenharia_Dados/Pandas.md",
+    "Engenharia_Dados/OpenPyXL.md",
+    "Engenharia_Dados/Observabilidade_Pipelines.md",
+    "Engenharia_Dados/NumPy.md",
+    "Engenharia_Dados/N8N.md",
+    "cerebro-engenharia-dados",
+    "cerebro-engenharia-dados-github.zip",
+    "Engenharia_Dados/obsidian_cerebro_v2_completo.zip",
+    "Engenharia_Dados/obsidian_vault",
+    "Engenharia_Dados/obsidian_cerebro_engenharia_dados.zip",
+    "Engenharia_Dados",
+    "Sem título.base",
+    "Engenharia_de_dados",
+    "Nova pasta",
+    "Sem título 2.canvas",
+    "Sem título.canvas",
+    "Sem título 1.canvas"
+  ]
+}
